@@ -3,7 +3,7 @@
 ### Project Overview
 
 This repository is part of a semester AI project in order to analyse YouTube comments about the war in Ukraine.
-We collect data from news YouTube channels (CNN, Fox News, Fox Business, Vice News), clean it, analyze user sentiment and semantics, and later use it for fake/true news classification.
+We collect data from CNN news YouTube channel, clean it, analyze user sentiment and semantics, and later use it for fake/true news classification.
 
 ### What Each File Does
 - **ids.txt** – list of YouTube video IDs.
